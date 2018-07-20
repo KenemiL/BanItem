@@ -1,10 +1,10 @@
 name: BanItem
 author: LDX
-version: 2.2
-api: [1.0.0, 2.0.0]
+version: 2.3.2
+api: [3.0.0, 3.1.0]
 main: LDX\BanItem\Main
 load: POSTWORLD
-website: https://github.com/LDX-MCPE/BanItem
+website: https://github.com/LDX-MCPE/BanItemRELOADED
 commands:
   banitem:
     description: "BanItem main command."
